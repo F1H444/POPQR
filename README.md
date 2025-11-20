@@ -5,7 +5,7 @@
 
 ---
 
-![Tampilan Hero POPQR](./public/demo-hero.png)
+<img width="1920" height="1080" alt="Screenshot 2025-11-20 141822" src="https://github.com/user-attachments/assets/09d0818b-40b3-471e-918f-97d9d0b413a0" />
 
 ---
 
