@@ -9,7 +9,7 @@
 
 ---
 
-## qm Tentang Project
+## Tentang Project
 
 **POPQR** dibangun sebagai antitesis dari internet modern yang rumit. Banyak generator QR Code di luar sana yang memaksa pengguna untuk mendaftar, membayar langganan, atau melihat iklan yang mengganggu.
 
