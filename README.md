@@ -80,3 +80,6 @@ Ikuti langkah ini untuk menjalankan project di komputer Anda:
 ├── components/         # Komponen UI reusable (jika ada)
 ├── tailwind.config.ts  # Konfigurasi Tailwind
 └── ...
+
+
+Tes
